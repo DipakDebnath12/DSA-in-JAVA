@@ -18,8 +18,7 @@ class Solution {
                 return false;
             }
         }
-        return true;
-
+    return true;
 
     }
 }
