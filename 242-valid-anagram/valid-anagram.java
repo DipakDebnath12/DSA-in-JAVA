@@ -20,20 +20,6 @@ class Solution {
         }
         return true;
 
-       /*if(s.length() == t.length()){
-            char[] sarray = s.toCharArray();
-            char[] tarray = t.toCharArray();
-            Arrays.sort(sarray);
-            Arrays.sort(tarray);
 
-            if(Arrays.equals(sarray, tarray)){
-                return true;
-            }else{
-                return false;
-            }    
-        }
-        else{
-            return false;
-        }*/
     }
 }
